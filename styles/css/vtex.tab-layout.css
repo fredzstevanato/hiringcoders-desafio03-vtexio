@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap");
+
+.listItem :global(.vtex-button) {
+  display: inline-block;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 500;
+  background: #212121;
+  color: #fff;
+  border: 0;
+}
+
+.listItemActive {
+  border-bottom: 1.5px solid #59ff00;
+}
+
+.listItemContent {
+  text-transform: uppercase;
+  font-weight: 450;
+  font-size: 0.8em;
+  background-color: transparent;
+  background: #fff;
+  color: #fff;
+}

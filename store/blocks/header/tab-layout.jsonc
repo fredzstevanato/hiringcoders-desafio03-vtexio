@@ -2,7 +2,10 @@
   "tab-layout": {
     "children": [
       "tab-list"
-    ]
+    ],
+    "props": {
+      "blockClass": "headerTabLayout"
+    }
   },
   "tab-list": {
     "children": [

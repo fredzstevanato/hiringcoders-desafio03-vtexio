@@ -1,0 +1,28 @@
+.slideChildrenContainer--scroller-nav,
+.slideChildrenContainer--carousel {
+  background-color: #212121;
+  width: 1500px;
+  height: auto;
+}
+
+.sliderLeftArrow--scroller-nav,
+.sliderRightArrow--scroller-nav {
+  color: #fff;
+}
+
+.imageElement {
+  max-width: 100px;
+}
+
+.paginationDotsContainer--scroller-nav {
+  display: none;
+}
+
+.slideChildrenContainer--carousel,
+.slide--carousel {
+  z-index: -10;
+}
+
+.caretIcon--carousel {
+  color: #fff;
+}

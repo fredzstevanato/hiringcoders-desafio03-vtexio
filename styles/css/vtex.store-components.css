@@ -1,0 +1,12 @@
+.searchBarContainer {
+  border: none;
+  color: #0f3e99;
+}
+
+.imageElement {
+  width: 100%;
+  cursor: pointer;
+  display: block;
+  overflow: hidden;
+  border-radius: 20px;
+}

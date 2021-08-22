@@ -24,15 +24,13 @@
   "image#1": {
     "props": {
       "src": "https://bucket-cli-fredzstevanato.s3.sa-east-1.amazonaws.com/slide1.png",
-      "alt": "Banner Wood Sport Festival",
-      "maxHeight": "650"
+      "alt": "Banner Wood Sport Festival"
     }
   },
   "image#2": {
     "props": {
       "src": "https://bucket-cli-fredzstevanato.s3.sa-east-1.amazonaws.com/slide2.png",
-      "alt": "Banner Grandes Guerreiros",
-      "maxHeight": "650"
+      "alt": "Banner Grandes Guerreiros"
     }
   }
 }

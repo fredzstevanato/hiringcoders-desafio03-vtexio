@@ -3,7 +3,10 @@
     "blocks": [
       "header-layout.desktop",
       "header-layout.mobile"
-    ]
+    ],
+    "props": {
+      "blockClass": "headerBlock"
+    }
   },
   "header.full": {
     "blocks": [
